@@ -16,3 +16,5 @@ public :
 
 int main(){
     Mahasiswa mhs;//object
+    mhs.nim = 2025;
+    mhs.nama = "Nana";
